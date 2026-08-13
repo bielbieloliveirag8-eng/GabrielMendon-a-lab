@@ -1,1 +1,1 @@
-function juros(c, i) { return c * i; } — e 
+function juros(c, i)  return c * i/12; 
